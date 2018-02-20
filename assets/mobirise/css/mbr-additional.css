@@ -477,9 +477,6 @@ h6,
 #header3-3 .mbr-section-subtitle {
   text-align: center;
 }
-#features1-f .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
 #content8-a .mbr-section-title,
 #content8-a p {
   text-align: right;
