@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-18_2157",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -125,7 +125,7 @@
               "linkInNewWindow": false,
               "name": "delivery",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "",
               "size": 0,
               "active": true,
               "newWindow": false
@@ -712,13 +712,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
               "linkInNewWindow": false,
               "name": "delivery",
               "family": "MobiriseIcons",
-              "active": true,
-              "newWindow": false
+              "link": "",
+              "size": 0,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
@@ -996,7 +995,7 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "",
               "size": 0,
               "linkInNewWindow": false,
               "name": "delivery",
@@ -1319,7 +1318,7 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "",
               "size": 0,
               "linkInNewWindow": false,
               "name": "delivery",
@@ -1535,7 +1534,7 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "",
               "size": 0,
               "linkInNewWindow": false,
               "name": "delivery",
