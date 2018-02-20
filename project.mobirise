@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-18_2157-clone",
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1233,7 +1233,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "More Crap",
+          "title": "PESTEL Analysis",
           "text": "<p>Comparing Data Collected</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -1996,7 +1996,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10801.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10802.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2169,7 +2169,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10801.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10802.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
