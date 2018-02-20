@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-18_2157-clone",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -260,7 +260,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">US POLICY</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">FRENCH POLICY</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">US POLICY</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">FRENCH POLICY</a>"
         },
         {
           "_inherit": "content5",
@@ -1996,7 +1996,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10804.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10805.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2169,7 +2169,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10804.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10805.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
