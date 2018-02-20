@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "NewSite-02-18_2157",
-    "currentPage": "page1.html",
+    "name": "NewSite-02-18_2157-clone",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#bcbcbc"
+        "#bcbcbc",
+        "#bfcecb"
       ]
     },
     "versionFirst": "3.12.1",
@@ -30,7 +31,11 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
