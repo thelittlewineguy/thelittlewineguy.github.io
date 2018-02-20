@@ -508,16 +508,10 @@ h6,
 #contacts5-6 .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
-#content8-7 .mbr-section-title,
-#content8-7 p {
-  text-align: right;
-  color: #fff;
+#contacts5-6 LI {
+  color: #c0a375;
 }
 
-#msg-box8-q .mbr-section-title,
-#msg-box8-q p {
-  color: #fff;
-}
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -581,6 +575,20 @@ h6,
 #ext_menu-i .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-1a .mbr-section-title,
+#msg-box8-1a p {
+  color: #fff;
+}
+#msg-box8-1a .mbr-section-title {
+  text-align: center;
+}
+#msg-box8-1a .lead P {
+  text-align: center;
+}
+#content5-19 .mbr-section-title,
+#content5-19 p {
+  color: #fff;
+}
 #contacts5-j p,
 #contacts5-j .list-group-text,
 #contacts5-j .form-control-label {
@@ -599,6 +607,9 @@ h6,
 }
 #contacts5-j .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-j LI {
+  color: #c0a375;
 }
 
 #msg-box8-r .mbr-section-title,
@@ -693,7 +704,20 @@ h6,
 #contacts5-l .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
+#contacts5-l LI {
+  color: #c0a375;
+}
 
+#msg-box8-1b .mbr-section-title,
+#msg-box8-1b p {
+  color: #fff;
+}
+#msg-box8-1b .mbr-section-title {
+  text-align: center;
+}
+#msg-box8-1b .lead P {
+  text-align: center;
+}
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -776,7 +800,20 @@ h6,
 #contacts5-n .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
+#contacts5-n LI {
+  color: #c0a375;
+}
 
+#msg-box8-1c .mbr-section-title,
+#msg-box8-1c p {
+  color: #fff;
+}
+#msg-box8-1c .mbr-section-title {
+  text-align: center;
+}
+#msg-box8-1c .lead P {
+  text-align: center;
+}
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -840,10 +877,6 @@ h6,
 #ext_menu-w .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-y .mbr-section-title,
-#msg-box8-y p {
-  color: #fff;
-}
 #contacts5-x p,
 #contacts5-x .list-group-text,
 #contacts5-x .form-control-label {
@@ -862,4 +895,7 @@ h6,
 }
 #contacts5-x .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-x LI {
+  color: #c0a375;
 }

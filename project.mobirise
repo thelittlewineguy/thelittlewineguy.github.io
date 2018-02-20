@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-18_2157",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -20,10 +20,12 @@
         "isScrollToTopButton": true,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#bcbcbc"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 49,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -100,7 +102,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": false,
             "sticky": true,
@@ -132,7 +134,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Page 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Page 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Page 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">US Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">French Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">More Crap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>"
         },
         {
           "_inherit": "header1",
@@ -459,6 +461,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_tags": [
@@ -482,26 +487,31 @@
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts5",
+              "linkInNewWindow": false,
+              "name": "to-local-drive",
+              "family": "MobiriseIcons",
+              "active": true,
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "Click to Download PDF Research",
           "media2": {
             "iconFont": {
               "active": true,
@@ -511,30 +521,31 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "Sonoma State University",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "size": 0
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "Transportation Sustainability",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sarah Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "onsitecarcleaners@gmail.com",
+            "action": "thelittlewineguy@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -549,45 +560,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message Us Directly"
               }
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
-        },
-        {
-          "_inherit": "content5",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_anchor": "content8-7",
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
@@ -599,43 +576,9 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "US Policy",
-          "text": "<p>US Transportation metris</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-q"
-        },
-        {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": false,
             "sticky": true,
@@ -647,7 +590,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Page 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Page 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Page 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">US Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">French Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">More Crap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -725,25 +668,125 @@
           "_anchor": "ext_menu-i"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
           "_params": {
-            "showText": true
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "US Policy",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-p"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-17"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-19"
         },
         {
           "_inherit": "contacts3",
@@ -763,6 +806,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_params": {
@@ -781,9 +827,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "to-local-drive",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -799,12 +846,13 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "global",
               "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -813,21 +861,25 @@
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "newWindow": false
             }
           },
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text2": "Click to Download PDF Research",
+          "text3": "Sonoma State University",
+          "text4": "Transportation Sustainability",
+          "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sarah Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
             "action": "onsitecarcleaners@gmail.com",
@@ -881,7 +933,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -893,7 +945,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
+          "title": "French Policy",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -918,7 +970,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": false,
             "sticky": true,
@@ -930,7 +982,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Page 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Page 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Page 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">US Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">French Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">More Crap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1133,6 +1185,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_params": {
@@ -1151,9 +1206,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "to-local-drive",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1169,12 +1225,13 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "global",
               "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1183,21 +1240,25 @@
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "newWindow": false
             }
           },
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text2": "Click to Download PDF Research",
+          "text3": "Sonoma State University",
+          "text4": "Transportation Sustainability",
+          "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sarah Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
             "action": "onsitecarcleaners@gmail.com",
@@ -1239,9 +1300,49 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1b"
+        },
+        {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": false,
             "sticky": true,
@@ -1253,7 +1354,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Page 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Page 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Page 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">US Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">French Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">More Crap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1349,6 +1450,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_params": {
@@ -1367,9 +1471,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "to-local-drive",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1385,12 +1490,13 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "global",
               "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1399,21 +1505,25 @@
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "newWindow": false
             }
           },
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text2": "Click to Download PDF Research",
+          "text3": "Sonoma State University",
+          "text4": "Transportation Sustainability",
+          "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sarah Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
             "action": "onsitecarcleaners@gmail.com",
@@ -1455,9 +1565,49 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Sources For FurtherInformation",
+          "text": "<p>A Bibiography of Complied Data</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1c"
+        },
+        {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": false,
             "sticky": true,
@@ -1469,7 +1619,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Page 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Page 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Page 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">US Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">French Policy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">More Crap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Learn More</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1546,40 +1696,6 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-w"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Sources For More<br> Information",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-y"
         },
         {
           "_params": {
@@ -1661,6 +1777,9 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "LI": {
+              "color": "#c0a375"
             }
           },
           "_params": {
@@ -1679,9 +1798,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "phone",
+              "name": "to-local-drive",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1697,12 +1817,13 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
+              "name": "global",
               "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1711,21 +1832,25 @@
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
               "class": "card-img-top",
-              "width": 265,
-              "active": true
+              "width": 265
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "newWindow": false
             }
           },
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text2": "Click to Download PDF Research",
+          "text3": "Sonoma State University",
+          "text4": "Transportation Sustainability",
+          "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sarah Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
             "action": "onsitecarcleaners@gmail.com",
