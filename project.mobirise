@@ -435,7 +435,7 @@
           },
           "text4": "Transportation Sustainability",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sarah Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
@@ -754,7 +754,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1133,7 +1133,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1487,7 +1487,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1815,7 +1815,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1996,7 +1996,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10805.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10806.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2081,7 +2081,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -2169,7 +2169,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10805.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10806.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2347,7 +2347,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">More Crap</a></li><li><a href=\"page4.html\">Learn More</a></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
