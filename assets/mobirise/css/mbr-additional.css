@@ -485,15 +485,6 @@ h6,
 #msg-box5-1y H3 {
   text-align: left;
 }
-#content8-a .mbr-section-title,
-#content8-a p {
-  text-align: right;
-  color: #fff;
-}
-#content5-8 .mbr-section-title,
-#content5-8 p {
-  color: #fff;
-}
 #contacts5-6 p,
 #contacts5-6 .list-group-text,
 #contacts5-6 .form-control-label {
@@ -517,6 +508,17 @@ h6,
   color: #c0a375;
 }
 
+#msg-box8-1a .mbr-section-title,
+#msg-box8-1a p {
+  color: #fff;
+}
+#msg-box8-1a .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box8-1a .lead P {
+  text-align: center;
+}
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -579,17 +581,6 @@ h6,
 #ext_menu-i .link[aria-expanded="true"],
 #ext_menu-i .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#msg-box8-1a .mbr-section-title,
-#msg-box8-1a p {
-  color: #fff;
-}
-#msg-box8-1a .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-#msg-box8-1a .lead P {
-  text-align: center;
 }
 #content5-19 .mbr-section-title,
 #content5-19 p {
