@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-18_2157-clone",
-    "currentPage": "page1.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 91,
+    "uniqCompNum": 97,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -260,7 +260,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tier-1-1000x757.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2014,7 +2014,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108013.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108014.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2187,7 +2187,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108013.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108014.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2526,113 +2526,79 @@
           "_anchor": "ext_menu-1q"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/warehouse-and-transport-1048x411.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
           },
-          "title": "Enviornmental Impact of Californian Wine Transport",
-          "text": "This is an analysis of Californian laws two wine distribution systems&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "title": "Two Distribution Models' Impact on Transporting Wine Within California",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-24"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2o"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016",
+          "text1": "<p><b>1) Three-Tier Model</b></p><p>In America’s alcohol distribution, most states are governed by a three-tier model where the supplier sells to a state-level distributor who then sells to retailers. In this supply-chain also utilized in California, the wine is stored in three different locations and transported two times before it reaches a store shelf or wine list. In the three-tier system a few, large distributorships control a significant market-share of California’s wine sales and have profit motivations in creating the most efficient routes that consume the least fuel.&nbsp;</p>",
+          "text2": "<p><b>2)     Direct-to Retailer Sales Model…</b><span style=\"font-size: 1.07rem;\"><b>A Tale of Scale for Wineries</b>&nbsp;</span></p><p>California is unique in that it allows in-state wineries to sell directly to retailers in restaurants. This is a tale of extreme scales. Small wine producer, who emit less greenhouse gases can service their retail customers. Conversely, the largest sales and production wine companies like Gallo, Jackson Family, Treasury use this distribution model to manage their sales strategies and create cost efficiencies in transportation.\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-25"
+          "_name": "content6",
+          "_anchor": "content6-2n"
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "56",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tier-3-1000x757.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "Overview:",
-          "text": "<i>By Dan Ceresia, Sara Stapleton, Sam Tesconi, Bradlee Van Pelt</i><br><br>In this publication we will compare and contrast the systems for wine transportation resulting from the distribution models (2 tier/ 3 tier), including sustainability impacts. To focus our scope, we have limited our US Case study to California given all of the variations in state law.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-2a"
+          "_name": "image2",
+          "_anchor": "image2-2m"
         },
         {
           "_styles": {
@@ -2714,7 +2680,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tier-1-1000x757.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2774,7 +2740,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tier-1-1000x757.jpg",
               "link": "",
               "alt": "",
               "title": ""
