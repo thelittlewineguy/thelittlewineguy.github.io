@@ -1168,16 +1168,19 @@ h6,
 #header3-2f .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box5-2b P {
-  text-align: left;
+#header3-2r .mbr-section-title,
+#header3-2r .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-2b H3 {
-  text-align: left;
+#header3-32 .mbr-section-title,
+#header3-32 .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-2c P {
-  text-align: left;
+#header3-33 .mbr-section-title,
+#header3-33 .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-2c H3 {
+#msg-box5-34 P {
   text-align: left;
 }
 #contacts5-1r p,
