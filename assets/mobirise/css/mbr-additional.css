@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
 
@@ -705,6 +706,7 @@ h6,
   color: #c0a375;
 }
 
+
 #msg-box8-1d .mbr-section-title,
 #msg-box8-1d p {
   color: #fff;
@@ -734,6 +736,7 @@ h6,
 #ext_menu-m .link,
 #ext_menu-m .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-m .link {
   font-size: 0.75rem;
@@ -783,16 +786,10 @@ h6,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box5-3i P {
+#msg-box5-3m P {
   text-align: left;
 }
-#msg-box5-3i H3 {
-  text-align: left;
-}
-#msg-box5-3j P {
-  text-align: left;
-}
-#msg-box5-3j H3 {
+#msg-box5-3m H3 {
   text-align: left;
 }
 #contacts5-n p,
