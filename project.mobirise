@@ -505,7 +505,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/carbon-foot-600x388.png",
+              "src": "@PROJECT_PATH@/assets/images/carbon-foot-jpeg-600x388.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2014,7 +2014,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108012.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108013.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2187,7 +2187,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108012.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108013.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
