@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-18_2157-clone",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -260,7 +260,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bag-858x617.jpg",
+              "src": "@PROJECT_PATH@/assets/images/epa-886x546.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1614,7 +1614,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bag-858x617.jpg",
+              "src": "@PROJECT_PATH@/assets/images/epa-886x546.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1674,7 +1674,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bag-858x617.jpg",
+              "src": "@PROJECT_PATH@/assets/images/epa-886x546.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2324,7 +2324,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108017.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108018.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2497,7 +2497,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108017.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108018.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
