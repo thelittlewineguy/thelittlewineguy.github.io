@@ -505,10 +505,13 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/carbon-foot-600x388.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
@@ -551,8 +554,8 @@
               "active": true
             }
           },
-          "title1": "Transportation of WIne",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "title1": "Transportation of Wine",
+          "subtitle1": "California wine's carbon footprint from vine to shelf",
           "caption1": "&nbsp;When examining wine’s path to consumption in the United States, Transportation accounts for 13% of the carbon footprint. This provides systemic context as we examine the environmental impact of transportation in California’s wine distribution model.&nbsp;<br>",
           "title2": "Transportation of People",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -2011,7 +2014,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10809.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108010.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2184,7 +2187,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10809.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108010.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
