@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 
 
@@ -429,6 +430,7 @@ h6,
 #ext_menu-h .link,
 #ext_menu-h .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-h .link {
   font-size: 0.75rem;
@@ -509,6 +511,7 @@ h6,
   color: #c0a375;
 }
 
+
 #msg-box8-1a .mbr-section-title,
 #msg-box8-1a p {
   color: #fff;
@@ -538,6 +541,7 @@ h6,
 #ext_menu-i .link,
 #ext_menu-i .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-i .link {
   font-size: 0.75rem;
@@ -782,10 +786,6 @@ h6,
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-1e .mbr-section-title,
-#header3-1e .mbr-section-subtitle {
-  text-align: center;
-}
 #msg-box5-3m P {
   text-align: left;
 }
@@ -912,6 +912,7 @@ h6,
   color: #c0a375;
 }
 
+
 #ext_menu-1k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -930,6 +931,7 @@ h6,
 #ext_menu-1k .link,
 #ext_menu-1k .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-1k .link {
   font-size: 0.75rem;
@@ -1106,6 +1108,7 @@ h6,
   color: #c0a375;
 }
 
+
 #ext_menu-1q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1124,6 +1127,7 @@ h6,
 #ext_menu-1q .link,
 #ext_menu-1q .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-1q .link {
   font-size: 0.75rem;
@@ -1215,6 +1219,7 @@ h6,
   color: #c0a375;
 }
 
+
 #ext_menu-1s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1233,6 +1238,7 @@ h6,
 #ext_menu-1s .link,
 #ext_menu-1s .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-1s .link {
   font-size: 0.75rem;
@@ -1277,6 +1283,10 @@ h6,
 #ext_menu-1s .link[aria-expanded="true"],
 #ext_menu-1s .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box8-3u .mbr-section-title,
+#msg-box8-3u p {
+  color: #fff;
 }
 #contacts5-1t p,
 #contacts5-1t .list-group-text,
