@@ -685,14 +685,12 @@ h6,
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#content6-3t P {
-  text-align: left;
+#features7-7n .card-subtitle {
+  color: #bcbcbc;
 }
-#msg-box5-3m P {
-  text-align: left;
-}
-#msg-box5-3m H3 {
-  text-align: left;
+#features7-7n .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
 }
 #contacts5-n p,
 #contacts5-n .list-group-text,
