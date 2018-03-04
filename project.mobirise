@@ -1800,7 +1800,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108016.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108017.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1973,7 +1973,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108016.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108017.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2770,7 +2770,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Transportation of People- US",
-        "order": 11
+        "order": 9
       },
       "components": [
         {
@@ -2792,7 +2792,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2897,7 +2897,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Napa Labor: Transportation of People",
-          "text": "",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -2949,7 +2949,7 @@
             }
           },
           "title": "Systems Analysis",
-          "text": "",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3001,7 +3001,7 @@
             }
           },
           "title": "California Minium Wage",
-          "text": "",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3053,7 +3053,7 @@
             }
           },
           "title": "Labor Shortages",
-          "text": "",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3105,7 +3105,7 @@
             }
           },
           "title": "Transportation Options",
-          "text": "",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3152,7 +3152,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "smile-face",
+              "name": "to-local-drive",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -3177,7 +3177,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -3200,8 +3200,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
-          "text2": "Sustainability",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text2": "Click to Download PDF Research",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
