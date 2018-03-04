@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "page8.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -524,10 +524,13 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/farmworker-photo-1-jpeg-600x253.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -565,9 +568,9 @@
           "title1": "Transportation of Wine",
           "subtitle1": "California wine's carbon footprint from vine to shelf",
           "caption1": "&nbsp;When examining wine’s path to consumption in the United States, Transportation accounts for 13% of the carbon footprint. This provides systemic context as we examine the environmental impact of transportation in California’s wine distribution model.&nbsp;<br>",
-          "title2": "Transportation of People",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "<br><br>Transportation of People",
+          "subtitle2": "Transportation and Obtaining an Available WOrkforce is Difficult",
+          "caption2": "60% of firms in Napa have experienced labor shortages and 70% of firms have skipped activities due to shortages (Franson).&nbsp;<br><br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -1837,7 +1840,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Focus of Sustainable Winegrowing, Not Transportation\r</b></p><p>&nbsp;\r</p><p>Much of the consumer and industry awareness focuses on best environmental practices from a winegrowing perspective. Greenhouse gas emissions from transportation is not in the public consciousness, and is an unpleasant reality wine companies gloss over when explaining sustainability initiatives.</p>",
-          "text2": "<p><b>Loss of Social welfare...</b></p><p><br></p>",
+          "text2": "<p><b>Loss of Social welfare</b></p><p><b><br></b></p><p><span style=\"font-size: 1.07rem;\">Some workers are commuting 4-6 hours a day to work in Napa as a result of the labor shortage and the fact that Napa is paying higher wages and providing benefits than other areas of California.  This is completely lost non-productive time that is being removed both from productive economic time and completely disrupts the family structure.  A worker interviewed noted that he leaves his home in Stockton to get in a van at 4:40 a.m, he is on a Napa vineyard at 6:30 a.m, 12 hours later his is home and see his kids faces and “gives them a hug before turning in at 9:30 p.m… which is hard for me as a man and a father” (Kitroeff and Mohan), but notes that work in Napa is better because he makes $19.50 an hour instead of $14.75 and in Napa “they treat you differently… they don’t pressure you, they respect the law” (Kitroeff and Mohan).  As noted above, if this worker is not paid for his commute time he is actually making $13.00 an hour in Napa since he is commuting at least 4 hours a day.</span><br><span style=\"font-size: 1.07rem;\"></span></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2127,7 +2130,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Transportation in the U.S. and Greenhouse Emissions\r</b></p><p>&nbsp;\r</p><p>Transportation accounts for 27% of the United States greenhouse gas emissions when analyzed by sector. According to a National Geographic study, if you live in New York, it may be more environmentally friendly to buy wine sent by container ship from Bordeaux to a port in New Jersey than to buy California Wine trucked across the country in diesel truck.</p>",
-          "text2": "<p><b>Carbon Footprint- Info being curated</b></p><p><b><br>Mechanization<br><br></b></p><p>Mechanization can save as much as 25-75% of the cost for individual task and can be employed for labor intensive tasks in vineyards such as pruning, trimming sucker shoots, removing leaves and thinning shoots and grape clusters (Quackenbush).  Viewing mechanization based on integrated systems-based approach offers many opportunities for expansion, but is still in early stages of experimentation and is expensive (Adams).  Farmers may not only have to change the layout of farms to make room for mechanization, but also the variety of fruit harvest to withstand mechanical harvesting (Mohon, discussing raising grapes).\n</p><p><br></p><p><b>Lost Land Productivity-</b></p><p><br></p><p>The labor shortage has had a direct result on land productivity on several level, including:\n</p><p>•\tFarmers have been unable to harvest crops – entire fields have been left unharvested and left to rot\n</p><p>•\t“Vast areas of the Central Valley have switched from labor intensive crops such as grapes or vegetables to almonds, which are mechanically shaken from the tree” (Mohan).\n</p><p><br></p>",
+          "text2": "<p><b>Carbon Footprint</b></p><p><b><br></b></p><p><span style=\"font-size: 1.07rem;\">As a result of a combination of factors including the labor shortage, high cost of housing in Napa and lack of public transportation infrastructure workers are commuting to Napa from lower cost areas to work in Napa.  They receive higher wages and more benefits in Napa (a positive) at the cost of a 2-3 hour commute each way.  Some workers are commuting on their own by car and labor contractors are bringing workers in by the bus or vanload.  The monthly carbon footprint of this commute is anywhere from 2,681 lbs to 10,311 lbs, as set out in more detail in the discussion of US Systems.  This is per worker (or van/busload) and is not offset in any manner.</span></p><p><br><span style=\"font-size: 1.07rem;\"></span></p><p><b>Mechanization</b><br><br></p><p>Mechanization can save as much as 25-75% of the cost for individual task and can be employed for labor intensive tasks in vineyards such as pruning, trimming sucker shoots, removing leaves and thinning shoots and grape clusters (Quackenbush).  Viewing mechanization based on integrated systems-based approach offers many opportunities for expansion, but is still in early stages of experimentation and is expensive (Adams).  Farmers may not only have to change the layout of farms to make room for mechanization, but also the variety of fruit harvest to withstand mechanical harvesting (Mohon, discussing raising grapes).\n</p><p><br></p><p><b>Lost Land Productivity-</b></p><p><br></p><p>The labor shortage has had a direct result on land productivity on several level, including:\n</p><p>•\tFarmers have been unable to harvest crops – entire fields have been left unharvested and left to rot\n</p><p>•\t“Vast areas of the Central Valley have switched from labor intensive crops such as grapes or vegetables to almonds, which are mechanically shaken from the tree” (Mohan).\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2397,7 +2400,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Back Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Resources</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Back Home</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Resources</a>",
           "_tags": [
             "Theme"
           ],
@@ -2552,7 +2555,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Learn More",
+        "title": "Resource Page",
         "order": 7
       },
       "components": [
@@ -2637,7 +2640,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -3007,7 +3012,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10805.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10806.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -3180,7 +3185,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10805.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10806.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",

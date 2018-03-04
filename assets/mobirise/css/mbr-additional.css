@@ -818,6 +818,7 @@ h6,
   color: #c0a375;
 }
 
+
 #msg-box8-1c .mbr-section-title,
 #msg-box8-1c p {
   color: #fff;
@@ -847,6 +848,7 @@ h6,
 #ext_menu-w .link,
 #ext_menu-w .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-w .link {
   font-size: 0.75rem;
