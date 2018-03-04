@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "page8.html",
+    "currentPage": "SITUATION ANALYSIS FRANCE.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 277,
+    "uniqCompNum": 282,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -854,7 +854,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "PESTEL Analysis",
-        "order": 4
+        "order": 12
       },
       "components": [
         {
@@ -1344,7 +1344,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Resource Page",
-        "order": 9
+        "order": 17
       },
       "components": [
         {
@@ -1678,7 +1678,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Impact",
-        "order": 7
+        "order": 15
       },
       "components": [
         {
@@ -1800,7 +1800,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108017.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108018.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1950,7 +1950,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "US Recommendations",
-        "order": 8
+        "order": 16
       },
       "components": [
         {
@@ -1973,7 +1973,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108017.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108018.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2220,7 +2220,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Transportation in Wine- US",
-        "order": 10
+        "order": 3
       },
       "components": [
         {
@@ -2770,7 +2770,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Transportation of People- US",
-        "order": 9
+        "order": 4
       },
       "components": [
         {
@@ -3473,46 +3473,45 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Systems Analysis",
-        "order": 12
+        "order": 5
       },
       "components": [
         {
+          "_inherit": "content5",
           "_styles": {
-            ".mbr-section-title": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
               "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
             }
           },
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "0",
-            "paddingBottom": 3,
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/WBmFH7fNxnA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=WBmFH7fNxnA",
+              "width": 1280,
+              "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "System Map",
+          "caption": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-4y"
+          "_name": "content8",
+          "_anchor": "content8-7q"
         },
         {
           "_inherit": "menu",
@@ -3779,7 +3778,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "California Mininum Wage",
-        "order": 13
+        "order": 7
       },
       "components": [
         {
@@ -4205,7 +4204,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Labor Shortages",
-        "order": 14
+        "order": 6
       },
       "components": [
         {
@@ -4684,7 +4683,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Transportation Options",
-        "order": 15
+        "order": 8
       },
       "components": [
         {
@@ -5123,7 +5122,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Wine Transport: France",
-        "order": 16
+        "order": 10
       },
       "components": [
         {
@@ -5354,7 +5353,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Transportation of People- France",
-        "order": 17
+        "order": 11
       },
       "components": [
         {
@@ -5723,7 +5722,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "SITUATION ANALYSIS: FRANCE",
-        "order": 3
+        "order": 9
       },
       "components": [
         {
@@ -5755,26 +5754,13 @@
             "overlayOpacity": 0.5
           },
           "title": "SITUATION ANALYSIS: FRANCE\r",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p>The French transansportation system has many signicifant differences including a more expensive cost of fuel, higher tolls, and an public transportation system that is highly accessable.  Labor supply is significantly different including the labor source, wages paid, and access to the jobsite.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-r"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>The French transansportation system has many signicifant differences including a more expensive cost of fuel, higher tolls, and an public transportation system that is highly accessable. &nbsp;Labor supply is significantly different including the labor source, wages paid, and access to the jobsite.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-s"
         },
         {
           "_params": {
@@ -5856,7 +5842,7 @@
           "title1": "Transportation of Wine",
           "subtitle1": "French transport carbon footprint from vine to shelf",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Transportation of People",
+          "title2": "<br><br><br>Transportation of People",
           "subtitle2": "French Transportation&nbsp;",
           "caption2": "Deeper look into the transportation system that delivers the labor force in France.",
           "title3": "Web Fonts",
@@ -5981,6 +5967,44 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Impacts and Results",
+          "text": "Systematic byproducts as a result of current practices",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">IMPACTS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-7t",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -6111,7 +6135,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "French PESTEL Analysis",
-        "order": 6
+        "order": 14
       },
       "components": [
         {
@@ -7291,7 +7315,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "US Pestel Analysis",
-        "order": 5
+        "order": 13
       },
       "components": [
         {

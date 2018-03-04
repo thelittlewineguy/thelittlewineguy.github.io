@@ -1302,11 +1302,10 @@ h6,
 }
 
 
-#msg-box2-4y .mbr-section-title {
+#content8-7q .mbr-section-title,
+#content8-7q p {
+  text-align: right;
   color: #fff;
-}
-#msg-box2-4y .mbr-section-subtitle {
-  color: #a0a0a0;
 }
 #ext_menu-21 .hide-buttons .nav-btn {
   display: none !important;
@@ -1927,6 +1926,12 @@ h6,
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box1-7t H2 {
+  color: #ffffff;
+}
+#msg-box1-7t H3 {
+  color: #ffffff;
 }
 #contacts5-l p,
 #contacts5-l .list-group-text,
