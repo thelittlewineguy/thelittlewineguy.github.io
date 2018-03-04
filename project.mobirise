@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,11 +23,12 @@
       "additionalSetColors": [
         "#bcbcbc",
         "#bfcecb",
-        "#264624"
+        "#264624",
+        "#232323"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 177,
+    "uniqCompNum": 204,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -146,7 +147,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>"
         },
         {
           "_inherit": "header1",
@@ -177,8 +178,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Wine Transportation Analysis: Metrics Bewteen Napa and Sonoma and Bordeaux",
-          "text": "In this portion be provide our executive statement or abstract ",
+          "title": "Wine Transportation Analysis: Metrics Between Napa and Sonoma and Bordeaux",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">France Metrics</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">U.S. Metrics</a>"
         },
         {
@@ -371,18 +372,18 @@
               "newWindow": false
             }
           },
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
-              "name": "to-local-drive",
+              "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
               "size": 0
             }
           },
-          "text2": "Click to Download PDF Research",
+          "text2": "Sustainability",
           "media2": {
             "iconFont": {
               "active": true,
@@ -405,7 +406,7 @@
           },
           "text4": "Transportation Sustainability",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
@@ -610,7 +611,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -760,7 +761,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -785,7 +786,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -808,8 +809,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -919,7 +920,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1143,7 +1144,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -1168,7 +1169,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1191,8 +1192,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -1287,7 +1288,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pestel-image-975x833.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pestel-jpeg-679x483.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -1323,7 +1324,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1435,17 +1436,104 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text1": "<b>SB 1\r</b><div>&nbsp;\r</div><div>This California tax increase on gas and vehicle registration implemented in 2018 will make shipping wine via diesel trucks, the predominate method in California, more expensive. However, the government funding will predominately go to improving the road infrastructure wine transporters are most likely to use. $5 billion annually is being invested in infrastructure, and in the 2018 fiscal year rail is only receiving 0.5% of the funding.\r</div><div>&nbsp;\r</div><div><b>Threat of Federal Government in Reducing Emissions Standards\r</b></div><div>&nbsp;\r</div><div>Under the Trump administration, the federal government has consistently weakened environmental regulations. This will be a constant threat to California’s green initiatives. This is most recently evidenced by the EPA’s attempts to lower vehicle tailpipe standards in California.\r</div><div>&nbsp;\r</div><div><br></div>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Wine",
+          "subtitle1": "",
+          "caption1": "",
+          "title2": "People",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-3t"
+          "_name": "features3",
+          "_anchor": "features3-5d"
         },
         {
           "_params": {
@@ -1453,12 +1541,18 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b><i><span style=\"font-size: 1.07rem;\">SB 1</span><br></i></b></p><p>&nbsp;\n</p><p>This California tax increase on gas and vehicle registration implemented in 2018 will make shipping wine via diesel trucks, the predominate method in California, more expensive. However, the government funding will predominately go to improving the road infrastructure wine transporters are most likely to use. $5 billion annually is being invested in infrastructure, and in the 2018 fiscal year rail is only receiving 0.5% of the funding.\n</p><p>&nbsp;\n</p><p><b><i>Threat of Federal Government in Reducing Emissions Standards\n</i></b></p><p>&nbsp;\n</p><p>Under the Trump administration, the federal government has consistently weakened environmental regulations. This will be a constant threat to California’s green initiatives. This is most recently evidenced by the EPA’s attempts to lower vehicle tailpipe standards in California.\n</p><p>&nbsp;\n</p><p><br></p><p><br></p>",
+          "text1": "<p><b style=\"font-size: 1.07rem;\">SB 1</b><br></p><p></p><div>&nbsp;\n</div><div>This California tax increase on gas and vehicle registration implemented in 2018 will make shipping wine via diesel trucks, the predominate method in California, more expensive. However, the government funding will predominately go to improving the road infrastructure wine transporters are most likely to use. $5 billion annually is being invested in infrastructure, and in the 2018 fiscal year rail is only receiving 0.5% of the funding.\n</div><div>&nbsp;\n</div><div><b>Threat of Federal Government in Reducing Emissions Standards\n</b></div><div>&nbsp;\n</div><div>Under the Trump administration, the federal government has consistently weakened environmental regulations. This will be a constant threat to California’s green initiatives. This is most recently evidenced by the EPA’s attempts to lower vehicle tailpipe standards in California.\n</div><div>&nbsp;\n</div><div><br></div><p></p>",
+          "text2": "<p><b>Immigration Policy\r</b></p><p><br>As discussed in the overview of the US System, US immigration policy has a significant impact on the number of migrant workers transported to the US and available for harvest.  The lower number resulted in labor shortages, which had wide ranging impacts.   \r</p><p><br><b>Minimum Wage Policy/Overtime\r</b></p><p><br>Minimum wage policy and forthcoming changes to overtime rules in California also have an impact on the transportation of people as farmers are looking ahead to the impact these changes will have on their cost structure.  The impact of these changes (particularly when coupled with the labor shortages) are pushing many to consider changing crops from grapes to almonds or olives, which require much less labor or moving toward mechanization.\r</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-36"
+          "_name": "content6",
+          "_anchor": "content6-3t",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -1492,16 +1586,118 @@
         },
         {
           "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Wine",
+          "subtitle1": "",
+          "caption1": "",
+          "title2": "People",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5e"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><b><i><span style=\"font-size: 1.07rem;\">Freight Transportation is Critical to California’s GDP</span><br></i></b></p><p>&nbsp;\n</p><p>California’s economy is bolstered by freight transportation and the state is America’s largest hub of domestic commerce and international trade.\n</p><p>·   \tFreight movement generates $740 billion, which is roughly a third of California’s $2.2 trillion economy.\n<br></p><p>·   \tOver 5 million California jobs are in freight-dependent industry\n<br><br></p><p><span style=\"font-size: 1.07rem;\"><b><i>Economies of Scale in California’s Distribution Laws</i></b></span></p><p><br></p><p>Both the Three-Tier and Direct Sales to Retail model are dominated by large companies. Recent consolidation within this distributor level in the three-tier model results in transportation efficiencies. To illustrate consolidation impact within this distribution model, revenues at the nation’s three wine distributors equals half of the U.S. Wine Market Value. In the Direct Sales to Retail Model, these wine companies have the scale to transport their own goods within California. There are opportunities to incentivize environmental initiatives with these few, large players in California wine distribution in.</p>",
+          "text1": "<p><b>Freight Transportation is Critical to California’s GDP\n</b></p><p>&nbsp;\n</p><p>California’s economy is bolstered by freight transportation and the state is America’s largest hub of domestic commerce and international trade.\n</p><p>· Freight movement generates $740 billion, which is roughly a third of California’s $2.2 trillion economy. \n</p><p>· Over 5 million California jobs are in freight-dependent industry</p><p><br></p><p> \n</p><p>\n</p><p><b>Economies of Scale in California’s Distribution Laws</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p>Both the Three-Tier and Direct Sales to Retail model are dominated by large companies. Recent consolidation within this distributor level in the three-tier model results in transportation efficiencies. To illustrate consolidation impact within this distribution model, revenues at the nation’s three wine distributors equals half of the U.S. Wine Market Value. In the Direct Sales to Retail Model, these wine companies have the scale to transport their own goods within California. There are opportunities to incentivize environmental initiatives with these few, large players in California wine distribution in.</p>",
+          "text2": "<p><b>Waste from lost productivity</b></p><p><b><br></b> The labor shortage resulting from the change in immigration policy, which has resulted in the loss of labor force in parts of California (both because of a general shortage of labor because there are fewer workers and because workers are being transported to higher wage areas in Napa and Mendocino (Cannabis)), firms have skipped productive activities, been unable to harvest crops, elected to pull out productive crops and let land lie fallow due to cost of harvesting and taken other actions that have resulted in significant waste because either the cost of labor was higher than the benefit (profit) from their crop or there simply was no labor to be found due to labor shortages.</p><p><br></p><p>\n</p><p><b>“False” Minimum Wage</b></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Farm workers are commuting 2-3 hours each way to work due to a variety of factors including high cost of living in the areas where they are working and the higher wages and benefits earned.  They are not commuting because of lack of available work in their communities.  [They are not paid for commute time, which means that the effective wage paid assuming $19.50 wage/ 8-hour work day and 4-hour round trip commute, effective hourly wage is actually $13.00.   This worker is not only not getting paid overtime for the hours worked after 8 hours, he or she is not getting paid at all.] [CONFIRM]</span><br></p><p><br></p><p><b>Loss of Efficiency</b></p><p><b><br></b>The loss of experienced labor force in Napa, move to busing laborers in from other areas means that vineyard managers are retraining farmworkers who don’t have experience in grapes. This has led to a loss of efficiency – it takes a longer time for an inexperienced laborer to complete the same task than it would for an experienced laborer (Quackenbush). \n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-3b"
+          "_name": "content6",
+          "_anchor": "content6-5f"
         },
         {
           "_params": {
@@ -1535,16 +1731,118 @@
         },
         {
           "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Wine",
+          "subtitle1": "",
+          "caption1": "",
+          "title2": "People",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5g"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\"><b><i>Focus of Sustainable Winegrowing, Not Transportation</i></b></span><br></p><p>&nbsp;\n</p><p>Much of the consumer and industry awareness focuses on best environmental practices from a winegrowing perspective. Greenhouse gas emissions from transportation is not in the public consciousness, and is an unpleasant reality wine companies gloss over when explaining sustainability initiatives.</p>",
+          "text1": "<p><b>Focus of Sustainable Winegrowing, Not Transportation\r</b></p><p>&nbsp;\r</p><p>Much of the consumer and industry awareness focuses on best environmental practices from a winegrowing perspective. Greenhouse gas emissions from transportation is not in the public consciousness, and is an unpleasant reality wine companies gloss over when explaining sustainability initiatives.</p>",
+          "text2": "<p><b>Loss of Social welfare...</b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-3d"
+          "_name": "content6",
+          "_anchor": "content6-5h"
         },
         {
           "_params": {
@@ -1578,16 +1876,118 @@
         },
         {
           "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Wine",
+          "subtitle1": "",
+          "caption1": "",
+          "title2": "People",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5j"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b><i><span style=\"font-size: 1.07rem;\">California Lagging in Adoption of Lower Emission Commercial Trucking Technology</span><br></i></b></p><p>&nbsp;\n</p><p>The Diesel Technology Forum shows that approximately 23% of California's commercial heavy-duty diesel trucking fleet – the largest in the United States at nearly a million vehicles – uses the newest, cleanest diesel technology. The national average is 30% adoption.\n</p><p><br><b><i>Rail Technology Lacking\n</i></b></p><p>&nbsp;\n</p><p>Wine shipping by train is primarily being used for transportation from California to states on East Coast; an east-west route. However, there are opportunities to use north-south routes within California’s existing infrastructure.\n</p><p><br><b><i>Future Innovation in Electric Trucking\n</i></b></p><p>&nbsp;\n</p><p>Tesla is developing electric semis with ranges of 200 to 300 miles. There may be opportunities for California to incentivize adoption of this technology.</p>",
+          "text1": "<p><b>California Lagging in Adoption of Lower Emission Commercial Trucking Technology\n</b></p><p>&nbsp;\n</p><p>The Diesel Technology Forum shows that approximately 23% of California's commercial heavy-duty diesel trucking fleet – the largest in the United States at nearly a million vehicles – uses the newest, cleanest diesel technology. The national average is 30% adoption.\n</p><p>\n</p><p><b><br></b></p><p><b>Rail Technology Lacking\n</b></p><p>&nbsp;\n</p><p>Wine shipping by train is primarily being used for transportation from California to states on East Coast; an east-west route. However, there are opportunities to use north-south routes within California’s existing infrastructure.\n</p><p>\n</p><p><b><br></b></p><p><b>Future Innovation in Electric Trucking\n</b></p><p>&nbsp;\n</p><p>Tesla is developing electric semis with ranges of 200 to 300 miles. There may be opportunities for California to incentivize adoption of this technology.</p>",
+          "text2": "<p><b>Mechanization</b></p><p><br></p><p>Mechanization is one of the biggest technological innovations that could change the face of labor in Napa.  Many vineyard owners/managers are investing in mechanization equipment to reduce need for labor and changing the footprint of vineyards to allow for increased mechanization.  (Adams, Quackenbush).\r</p><p><br></p><p><b>Alternative Transportation</b></p><p><b><br></b>Trains!  Opening a fast, environmentally efficient public transportation link from Napa to the Central Valley/San Joaquin valley would significantly change the face of labor transportation.  This would require significant time and infrastructure (billions of dollars) but could reduce the commute significantly.\r</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-3f"
+          "_name": "content6",
+          "_anchor": "content6-5i"
         },
         {
           "_params": {
@@ -1610,7 +2010,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Enviornmental",
+          "title": "Environmental",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
@@ -1621,16 +2021,118 @@
         },
         {
           "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Wine",
+          "subtitle1": "",
+          "caption1": "",
+          "title2": "People",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5k"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><i><b><span style=\"font-size: 1.07rem;\">Transportation in the U.S. and Greenhouse Emissions</span><br></b></i></p><p>&nbsp;\n</p><p>Transportation accounts for 27% of the United States greenhouse gas emissions when analyzed by sector.  According to a National Geographic study, if you live in New York, it may be more environmentally friendly to buy wine sent by container ship from Bordeaux to a port in New Jersey than to buy California Wine trucked across the country in diesel truck.\n</p><p><br></p>",
+          "text1": "<p><b>Transportation in the U.S. and Greenhouse Emissions\r</b></p><p>&nbsp;\r</p><p>Transportation accounts for 27% of the United States greenhouse gas emissions when analyzed by sector. According to a National Geographic study, if you live in New York, it may be more environmentally friendly to buy wine sent by container ship from Bordeaux to a port in New Jersey than to buy California Wine trucked across the country in diesel truck.</p>",
+          "text2": "<p><b>Carbon Footprint- Info being curated</b></p><p><b><br>Mechanization<br><br></b></p><p>Mechanization can save as much as 25-75% of the cost for individual task and can be employed for labor intensive tasks in vineyards such as pruning, trimming sucker shoots, removing leaves and thinning shoots and grape clusters (Quackenbush).  Viewing mechanization based on integrated systems-based approach offers many opportunities for expansion, but is still in early stages of experimentation and is expensive (Adams).  Farmers may not only have to change the layout of farms to make room for mechanization, but also the variety of fruit harvest to withstand mechanical harvesting (Mohon, discussing raising grapes).\n</p><p><br></p><p><b>Lost Land Productivity-</b></p><p><br></p><p>The labor shortage has had a direct result on land productivity on several level, including:\n</p><p>•\tFarmers have been unable to harvest crops – entire fields have been left unharvested and left to rot\n</p><p>•\t“Vast areas of the Central Valley have switched from labor intensive crops such as grapes or vegetables to almonds, which are mechanically shaken from the tree” (Mohan).\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-3h"
+          "_name": "content6",
+          "_anchor": "content6-5l"
         },
         {
           "_params": {
@@ -1776,16 +2278,118 @@
         },
         {
           "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Wine",
+          "subtitle1": "",
+          "caption1": "",
+          "title2": "People",
+          "subtitle2": "",
+          "caption2": "",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5n"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\"><b><i>Alcohol Distribution Governed by State Laws\n</i></b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">In the United States, the environmental impact of alcohol distribution is influenced by legislation in individual states. Across all industries’ distribution models, factors like greenhouse gas emissions caused by trucking or tax credits for solar panels at a warehouse all vary state to state. California leads the country in environmental standards that impact transportation.</span></p>",
+          "text1": "<p><b>Alcohol Distribution Governed by State Laws\r</b></p><p>\r</p><p>In the United States, the environmental impact of alcohol distribution is influenced by legislation in individual states. Across all industries’ distribution models, factors like greenhouse gas emissions caused by trucking or tax credits for solar panels at a warehouse all vary state to state. California leads the country in environmental standards that impact transportation.</p>",
+          "text2": "<p><b>Minimum Wage and Overtime Laws</b></p><p><b><br></b>As discussed above, and in the US Systems Overview, CA Minimum wage is $10.50. Minimum wage will increase to $15 by 2023.   California currently requires that employers pay farmworkers overtime after they have worked 10 hours, but new overtime rules phasing in starting in 2019 will require overtime pay after 8 hours (Ulloa and Myers).  While many vineyard managers/owners in Napa already pay more than $15 per hour for labor, the increase in minimum wage and overtime rules is pushing some farmers to move towards mechanization and/or shift crops to crops that require less labor (Quackenbush).\n</p><p><br></p><p><b>H-2A Visa Requirements</b></p><p><b><br></b>One means for employing workers from outside the United States for agricultural purposes is through the H-2A visa program.  This program allows employers to hire workers for up to 10 months and requires that employers provide housing, transportation (from home country) and make a good faith effort to hire American workers for position (Mobley).  This program is underutilized in the wine industry because it is administratively burdensome and difficult to administer (Mobley), but provides wineries willing to make the investment a way to get workers to Napa.  Note that even if Napa elects to move toward H-2A visas, these can be difficult to obtain, in 2016, only 134,000 H-2A Visas were issued nationwide and California had an estimated 400,000 farmworkers (Quackenbush).  \n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-3l"
+          "_name": "content6",
+          "_anchor": "content6-5m"
         },
         {
           "_params": {
@@ -1839,7 +2443,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -1864,7 +2468,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1887,8 +2491,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -2012,7 +2616,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2191,7 +2795,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -2216,7 +2820,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -2239,8 +2843,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -2303,7 +2907,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2403,7 +3007,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10803.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10804.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2463,7 +3067,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -2488,7 +3092,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -2511,8 +3115,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -2576,7 +3180,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10803.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10804.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2616,7 +3220,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2733,7 +3337,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -2758,7 +3362,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -2781,8 +3385,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -2845,7 +3449,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3283,7 +3887,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -3308,7 +3912,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -3331,8 +3935,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -3395,7 +3999,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3487,7 +4091,7 @@
             "paddingTop": 3,
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hand-farming-napa-valley-vintners.com-1756x695.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -3500,7 +4104,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Napa Labor: Transportation of People",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -3534,7 +4138,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/systems-thinking-jpeg-535x358.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3549,7 +4156,7 @@
             }
           },
           "title": "Systems Analysis",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3583,7 +4190,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/man-675x482.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3598,7 +4208,7 @@
             }
           },
           "title": "California Minium Wage",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3632,7 +4242,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/rotting-pears-1400x922.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3647,7 +4260,7 @@
             }
           },
           "title": "Labor Shortages",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3699,7 +4312,7 @@
             }
           },
           "title": "Transportation Options",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3746,7 +4359,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -3771,7 +4384,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -3794,8 +4407,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -3933,7 +4546,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_anchor": "ext_menu-1v"
         },
         {
@@ -3992,18 +4605,18 @@
               "newWindow": false
             }
           },
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
-              "name": "to-local-drive",
+              "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
               "size": 0
             }
           },
-          "text2": "Click to Download PDF Research",
+          "text2": "Sustainability",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4026,7 +4639,7 @@
           },
           "text4": "Transportation Sustainability",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
@@ -4068,6 +4681,44 @@
         "order": 10
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4y"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -4164,8 +4815,45 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_anchor": "ext_menu-21"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/labor-systems-map-1368x789.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>This text will briefly describe content above.</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4z"
         },
         {
           "_inherit": "contacts3",
@@ -4223,18 +4911,18 @@
               "newWindow": false
             }
           },
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts5",
               "linkInNewWindow": false,
-              "name": "to-local-drive",
+              "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
               "size": 0
             }
           },
-          "text2": "Click to Download PDF Research",
+          "text2": "Sustainability",
           "media2": {
             "iconFont": {
               "active": true,
@@ -4257,7 +4945,7 @@
           },
           "text4": "Transportation Sustainability",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
           "form": {
             "title": "MESSAGE",
@@ -4318,7 +5006,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4515,6 +5203,85 @@
           "_anchor": "image2-4m"
         },
         {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ca-farmworkers-graph-1-1221x568.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-50"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/farmworker-photo-2-1400x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Myth: Migrant Workers are taking US Jobs",
+          "text": "The impact of immigrant labor on the wages of native-born workers is law… undocumented workers often work the unpleasant, back-breaking jobs that native-born workers are unwilling to do.” (Hoban)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-51"
+        },
+        {
           "_inherit": "contacts3",
           "_styles": {
             "p, .list-group-text, .form-control-label": {
@@ -4553,7 +5320,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -4578,7 +5345,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -4601,8 +5368,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -4665,7 +5432,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4828,6 +5595,26 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "60% of firms in Napa have experienced labor shortages and 70% of firms have skipped activities due to shortages (Franson).",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-53"
         },
         {
           "_params": {
@@ -5012,7 +5799,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -5037,7 +5824,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -5060,8 +5847,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
@@ -5124,7 +5911,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysys&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -5204,6 +5991,215 @@
           "_anchor": "ext_menu-4i"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "55",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/napa-housing-jpeg-604x328.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Transportation and Housing",
+          "text": "Napa is trying to provide housing to workers, and growers are paying $10-$15 per acre to subsidize housing and the state is contributing $250,000 a year, but this only provides 180 beds and there are approximately 6,000 workers.  Average rent in Sonoma County is $2,000-$2,500 a month and average farmworker makes $2,400 a month so it is difficult for farmworkers who are not in subsidized housing to “live local” (Quackenbush).",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-56"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Where do you get workers?\n</b></p><p>•\tSacramento/San Joaquin County and Central Valley brought in by bus by labor contractors 2-3 hours each way (Quackenbush)\n</p><p>•\tReplace with mechanization\n</p><p>•\tIncreased H-2A visa pool (in 2016 134,000 H-2A visas issued nationwide; estimated 536,000 CA farmworkers) (Quackenbush)</p>",
+          "text2": "<p><b>Napa Transportation Options for workers that do not “live local”</b></p><p>•\tBus or van by labor contractor\r</p><p>•\tCar\r</p><p>•\tNapa to Sonoma bus service ended June 30, 2017, so it now takes more than 6 hours to get from Napa to Sonoma by bus\r</p><p>• Government is exploring train options</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-58"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Bring in from other parts of California\n</b></p><p>Sacramento/San Joaquin County and Central Valley brought in by bus by labor contractors 2-3 hours each way \n<span style=\"font-size: 1.07rem;\"></span></p><p><b>Bring in from Mexico\n</b></p><p>Increased H-2A visa pool (in 2016 134,000 H-2A visas issued nationwide; estimated 536,000 CA farmworkers)\n</p><p><b>Replace with Machines\n</b></p><p>Replace with mechanization, which can save 25-75% of the cost for an individual task (Quackenbush)&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5a"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/graph-of-carbon-emissions-1012x804.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-59"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/train-map-2-1400x1104.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Bus service ends from Napa to Sonoma",
+          "text": "•\tNapa to Sonoma bus service ended June 30, 2017, so it now takes more than 6 hours to get from Napa to Sonoma by bus",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/train-map-2-1400x993.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>Train Proposals",
+          "text": "<b>Proposals for public transportation include: \n<br></b>\n<br>o\tUse of Napa Valley Wine train for commuter traffic between Napa and Sonoma (which opens Napa/Sonoma link, but does not help move workers in from Sacramento/ Central Valley) (Yune) \n<br>\n<br>o\tCommuter railroad service (blue line on map) from Sacramento through Marin/Napa County (Yune) \n<br>\n<br>o\tAce Train or Bart Service connecting Central Valley to Bay Area (provides first link, workers still need to get from Bay Area to Napa by bus/van/car)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5c"
+        },
+        {
           "_inherit": "contacts3",
           "_styles": {
             "p, .list-group-text, .form-control-label": {
@@ -5242,7 +6238,7 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts5",
-              "name": "to-local-drive",
+              "name": "smile-face",
               "size": 0,
               "family": "MobiriseIcons",
               "linkInNewWindow": false
@@ -5267,7 +6263,7 @@
               "linkInNewWindow": false
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li><a href=\"page1.html\">US Policy</a></li><li><a href=\"page2.html\">French Ploicy</a></li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
+          "text5": "<li><a class=\"text-primary\" href=\"index.html\">Home</a></li><li>SITUATION ANALYSIS: US WINE</li><li>SITUATION ANALYSIS: FRANCE</li><li><a href=\"page3.html\">PESTEL Analysis</a></li><li><a href=\"page5.html\">Impact</a></li><li><a href=\"page6.html\">U.S. Recommendations</a></li><li><a href=\"page4.html\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Learn More</a><br></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -5290,8 +6286,8 @@
             }
           },
           "title1": "Categories",
-          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 8: Group Projectg <br>Transportation of Goods and Services<br>",
-          "text2": "Click to Download PDF Research",
+          "text1": "EMBA Wine Cohort 5:<br>BUS-554E-101-18-SP: Leading Sustainable Enterprise<br>Team 6: Group Project&nbsp;<br>Transportation of Goods and Services<br>",
+          "text2": "Sustainability",
           "text3": "Sonoma State University",
           "text4": "Transportation Sustainability",
           "text6": "<strong>Contacts</strong><br>Bradlee Van Pelt\n<br>Dan Ceresia\n<br>Sara Stapleton\n<br>Sam Tesconi<br><br><br><strong>Address</strong><br>Stevenson Hall&nbsp;<br>1801 E Cotati Ave, <br>Rohnert Park, CA 94928<br>",
