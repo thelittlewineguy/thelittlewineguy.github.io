@@ -1213,6 +1213,7 @@ h6,
   color: #c0a375;
 }
 
+
 #ext_menu-1v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1231,6 +1232,7 @@ h6,
 #ext_menu-1v .link,
 #ext_menu-1v .dropdown-item {
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-1v .link {
   font-size: 0.75rem;
