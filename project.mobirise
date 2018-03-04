@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "page12.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 175,
+    "uniqCompNum": 177,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -443,7 +443,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "SITUATION ANALYSIS: US WINE\n",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -850,7 +850,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "SITUATION ANALYSIS: FRANCE\n",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1233,7 +1233,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "PESTEL Analysis",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1949,7 +1949,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Learn More",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2281,7 +2281,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Impact",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2403,7 +2403,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10802.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10803.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2553,7 +2553,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "US Recommendations",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2576,7 +2576,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10802.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10803.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2823,7 +2823,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Transportation in Wine- US",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3373,7 +3373,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Transportation of People- US",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3681,7 +3681,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/map-snippet-354x286.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3833,7 +3836,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Overview",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4062,7 +4065,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Systems Analysis",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -4293,7 +4296,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "California Mininum Wage",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -4640,7 +4643,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Labor Shortages",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -4953,8 +4956,8 @@
             "bgColor": "#fff",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/WmGXnwK2J4M?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=WmGXnwK2J4M",
+              "url": "https://www.youtube.com/embed/BcbDfqsGU6c?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=BcbDfqsGU6c",
               "width": 1280,
               "height": 720
             },
@@ -5099,7 +5102,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Transportation Options",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
