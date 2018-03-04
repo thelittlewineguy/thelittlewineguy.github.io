@@ -867,8 +867,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
@@ -876,7 +876,10 @@
             "bgColor": "#F2F2F2",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/tKmQdS4P3f0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": " https://www.youtube.com/watch?v=tKmQdS4P3f0",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#222",
@@ -929,18 +932,24 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tank-bag-transport-600x654.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/euro-rail-systm-550x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -980,7 +989,7 @@
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Transportation of People",
           "subtitle2": "Transportation and Obtaining an Available Workforce is Difficult",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Deeper look into the transportation system that delivers a labor force.",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -993,8 +1002,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1103,86 +1112,6 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-k"
-        },
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Abanoub S.",
-              "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Jhollman C.",
-              "authorBio": "User",
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-u"
         },
         {
           "_inherit": "contacts3",
@@ -3088,7 +3017,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10807.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10808.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -3261,7 +3190,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10807.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10808.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
