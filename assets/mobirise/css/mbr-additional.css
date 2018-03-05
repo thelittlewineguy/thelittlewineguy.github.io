@@ -1742,6 +1742,10 @@ h6,
 #ext_menu-5q .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-8j .mbr-section-title,
+#msg-box8-8j p {
+  color: #fff;
+}
 #contacts5-5r p,
 #contacts5-5r .list-group-text,
 #contacts5-5r .form-control-label {
