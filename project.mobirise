@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "page14.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1493,40 +1493,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p><b>Sources</b></p><p><b><br></b><div>\n</div><div>AgFunder. (2017, July, 20).  More Than Robotics is Needed to Solve the Farm Labor Shortage. Retrieved from https://agfundernews.com\n</div><div><br></div><div>Brugger, Kelsey. (2017, June 22). Labor Shortage Leaves $13 Million in Crops to Rot in Fields. Santa Barbara Independent, Retrieved from \n</div><div>Dickerson, Caitlin and Jennifer Medina. (2017, February, 9).  California Farmers Backed Trump, but Now Fear Losing Workers.  New York Times.  Retrieved from www.nytimes.com\n</div><div><br></div><div>Duvall, Zippy. (2017, October 16).  Worker Shortage Threatens U.S. Ag Sustainability. FB Viewpoints Beyond the Fencerows.  Retrieved from www.fb.org.\n</div><div><br></div><div>Franson, Paul. (2017, May 1).  Grapegrowers Ponder Labor Issues. Wines &amp; Vines. Retrieved from https://www.winesandvines.com/news/article/184046/Grapegrowers-Ponder-Labor-Issues\n</div><div><br></div><div>Hoban, Brennan. (2017, August, 24).  Do Immigrants “steal” jobs from American Workers. Brookings Now.   Retrieved from www.brookings.edu/blog/brookings-now.\n</div><div><br></div><div>Kitroeff, Natalie and Geoffrey Mohan. (2017, March, 17).  Wages rise on California farms.  Americans still don’t want the job. Los Angeles Times. Retrieved from www.latimes.com\n</div><div><br></div><div>Martin, Paul and Daniel Costa. (2017, March, 21).  Farmworker wages in California:  large gap between full-time equivalent and actual earnings.  </div><div><br></div><div>Economic Policy Institute: Working Economics Blog.  Retrieved from www.epi.org\n</div><div><br></div><div>Napa Valley Vintners.  Commitment to Farmworkers. Retrieved from https://napavintners.com/community/farmworkers.asp\n</div><div><br></div><div>Ness, Laura. (2017, June 22).  Increased Competition for Labor Leaves Wine Hanging.  Wine Industry Advisor.  Retrieved from https://www.wineindustryadvisor.com/2017/06/22/competition-labor-wine-hanging\n</div><div><br></div><div>Oxford College of Marketing. (2016, June, 30). What is a Pestel Analysis? Retrieved from https://blog.oxfordcollegeofmarketing.com/2016/06/30/pestel-analysis/\n</div><div><br></div><div>Quackenbush, Jeff. (2017, May, 5).  Napa, Sonoma vineyard-worker scarcity sprouts wage growth, alternatives.  Retrieved from http://www.northbaybusinessjournal.com/northbay/sonomacounty/6951644-181/napa-sonoma-vineyard-wine-employment\n</div><div><br></div><div>Swindell, Bill. (2017, July 29). North Coast Growers Head Into Grape Harvest With Labor Shortage As Their Top Concern. Retrieved from www.pressdemocrat.com.\n</div><div><br></div><div>Winewaterwatch.org. (2017, May 16). Napa’s Worker Squeeze Tightens.  WineWaterWatch.org. Retrieved from http://winewaterwatch.org\n</div><div><br></div><div>Yune, Howard. (2018, January 5). Napa Valley Wine Train May Experiment with Commuter Car, Solano, Napa Valley Register, Retrieved From http://napavalleyregister.com.\n</div><div><br></div><div>Yune, Howard. (2018, January 13). Rail Advocates Pitch Commuter Line From Napa County to Marin, Solano, Napa Valley Register, Retrieved </div><div>From http://napavalleyregister.com.\n</div><div><br></div><div>https://www.fueleconomy.gov/feg/byclass/Vans__Passenger_Type2016.shtml\n</div><div><br></div><div>https://en.wikipedia.org/wiki/Energy_efficiency_in_transport\n</div><div><br></div></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-11"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-12"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-13"
         },
         {
           "_params": {
@@ -1800,7 +1772,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108022.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108023.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1973,7 +1945,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108022.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108023.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -5237,7 +5209,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1399094-10151980257563614-1348286346-o-2000x1334.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -5260,24 +5232,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-97"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "64",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -5297,7 +5256,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/french-transportation-850x1100.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -5311,28 +5273,14 @@
               "size": 0
             }
           },
-          "title": "Simmilar to California",
-          "text": "Subsidies involved in transportation.&nbsp;",
+          "title": "French Statistics",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-99"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-98"
         },
         {
           "_inherit": "contacts3",
