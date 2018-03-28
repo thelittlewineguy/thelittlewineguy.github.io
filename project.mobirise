@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1772,7 +1772,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108023.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10802.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1945,7 +1945,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x108023.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10802.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
