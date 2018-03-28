@@ -476,17 +476,12 @@ h6,
 #ext_menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-1x P {
-  text-align: left;
+#header3-9h .mbr-section-title,
+#header3-9h .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-1x H3 {
-  text-align: left;
-}
-#msg-box5-1y P {
-  text-align: left;
-}
-#msg-box5-1y H3 {
-  text-align: left;
+#content2-9j P {
+  font-size: 20px;
 }
 #contacts5-6 p,
 #contacts5-6 .list-group-text,

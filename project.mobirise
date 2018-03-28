@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 341,
+    "uniqCompNum": 344,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -178,129 +178,47 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Wine Transportation Analysis: Metrics Between Napa and Sonoma and Bordeaux",
+          "title": "Wine Transportation Analysis: Metrics Between Napa and Sonoma and Bordeaux<br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SITUATION ANALYSIS: US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"SITUATION ANALYSIS FRANCE.html\" data-toolbar=\"-mbrBtnMove\">SITUATION ANALYSIS: FRANCE</a>"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "54",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1399094-10151980257563614-1348286346-o-1400x934.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
-          "title": "Overview:",
-          "text": "<i>By Dan Ceresia, Sara Stapleton, Sam Tesconi, Bradlee Van Pelt</i><br><br>In this publication we will compare and contrast the systems for wine transportation resulting from the distribution models (2 tier/ 3 tier), including sustainability impacts. To focus our scope, we have limited our US Case study to California given all of the variations in state law.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE ON US SYSTEMS</a>",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "ABSTRACT",
+          "meta": "By By Dan Ceresia, Sara Stapleton, Sam Tesconi, Bradlee Van Pelt",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1x",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "_name": "header3",
+          "_anchor": "header3-9h"
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "52",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "",
-          "text": "<br>We will also compare and contrast the systems for transportation for labor forces (e.g. delivering people as a resource and related requirements, such as housing in California and requirements in Bordeaux relating to continuity of first growth teams).  For this we have limited our case study to Napa and Bordeaux so that we could immerse ourselves into experience of Bordeaux and compare to Napa which we believe is the most comparable US Market.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "<blockquote><p>In this publication we will compare and contrast the systems for wine transportation resulting from the distribution models (2 tier/ 3 tier), including sustainability impacts. To focus our scope, we have limited our US Case study to California given all of the variations in state law. </p><p><br></p><p>We will also compare and contrast the systems for transportation for labor forces (e.g. delivering people as a resource and related requirements, such as housing in California and requirements in Bordeaux relating to continuity of first growth teams). For this we have limited our case study to Napa and Bordeaux so that we could immerse ourselves into experience of Bordeaux and compare to Napa which we believe is the most comparable US Market.&nbsp;</p></blockquote>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
+          "_name": "content2",
+          "_anchor": "content2-9j",
           "_styles": {
             "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
+              "font-size": "20px"
             }
-          },
-          "_anchor": "msg-box5-1y"
+          }
         },
         {
           "_tags": [
@@ -1604,7 +1522,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10807.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10808.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1777,7 +1695,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10807.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10808.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2596,7 +2514,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US WINE&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SITUATION ANALYSIS: US&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">SITUATION ANALYSIS: FRANCE<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">PESTEL Analysis&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">IMPACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">US Recommendations</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page4.html\">Resource Page</a></li>",
           "_tags": [
             "Theme"
           ],
