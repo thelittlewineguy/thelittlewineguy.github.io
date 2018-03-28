@@ -681,13 +681,6 @@ h6,
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#features7-7n .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-7n .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
-}
 #contacts5-n p,
 #contacts5-n .list-group-text,
 #contacts5-n .form-control-label {
@@ -2329,6 +2322,10 @@ h6,
 #msg-box2-8h .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#msg-box3-9g .mbr-section-title,
+#msg-box3-9g p {
+  color: #000;
+}
 #contacts5-7z p,
 #contacts5-7z .list-group-text,
 #contacts5-7z .form-control-label {
@@ -2416,10 +2413,6 @@ h6,
 #ext_menu-80 .link[aria-expanded="true"],
 #ext_menu-80 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header3-8b .mbr-section-title,
-#header3-8b .mbr-section-subtitle {
-  text-align: center;
 }
 #contacts5-81 p,
 #contacts5-81 .list-group-text,

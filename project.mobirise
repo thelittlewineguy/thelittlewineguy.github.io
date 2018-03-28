@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sustainability ",
-    "currentPage": "page1.html",
+    "currentPage": "page20.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 334,
+    "uniqCompNum": 341,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -464,8 +464,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
@@ -480,7 +480,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SITUATION ANALYSIS: US WINE CONDITIONS IN CALIFORNIA",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1013,142 +1013,6 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TRANDPORTATION SUSTAINABILITY</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-m"
-        },
-        {
-          "_inherit": "features4",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "flag",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "cash",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "chat",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "setting",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "globe",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "search",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
-          "title1": "Political",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "These are all about how and to what degree a government intervenes in the economy. This can include – government policy, political stability or instability in overseas markets, foreign trade policy, tax policy, labour law, environmental law, trade restrictions and so on.\n<br>\n<br>It is clear from the list above that political factors often have an impact on organisations and how they do business. Organisations need to be able to respond to the current and anticipated future legislation, and adjust their marketing policy accordingly.",
-          "title2": "Economic",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Economic factors have a significant impact on how an organisation does business and also how profitable they are. Factors include – economic growth, interest rates, exchange rates, inflation, disposable income of consumers and businesses and so on.\n<br>\n<br>These factors can be further broken down into macro-economical and micro-economical factors. Macro-economical  factors deal with the management of demand in any given economy. Governments use interest rate control, taxation policy and government expenditure as their main mechanisms they use for this.&nbsp;",
-          "title3": "Social",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Also known as socio-cultural factors, are the areas that involve the shared belief and attitudes of the population. These factors include – population growth, age distribution, health consciousness, career attitudes and so on. These factors are of particular interest as they have a direct effect on how marketers understand customers and what drives them.",
-          "title4": "Technological",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "We all know how fast the technological landscape changes and how this impacts the way we market our products. Technological factors affect marketing and the management thereof in three distinct ways:\n<br>\n<br>New ways of producing goods and services\n<br>New ways of distributing goods and services\n<br>New ways of communicating with target markets",
-          "title5": "Enviornmental",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "These factors have only really come to the forefront in the last fifteen years or so. They have become important due to the increasing scarcity of raw materials, polution targets, doing business as an ethical and sustainable company, carbon footprint targets set by governments (this is a good example were one factor could be classes as political and environmental at the same time). These are just some of the issues marketers are facing within this factor. More and more consumers are demanding that the products they buy are sourced ethically, and if possible from a sustainable source.",
-          "title6": "Legal",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Legal factors include - health and safety, equal opportunities, advertising standards, consumer rights and laws, product labelling and product safety. It is clear that companies need to know what is and what is not legal in order to trade successfully. If an organisation trades globally this becomes a very tricky area to get right as each country has its own set of rules and regulations.\n<br>\n<br>After you have completed a PESTEL analysis you should be able to use this to help you identify the strengths and weaknesses for a SWOT analysis.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features7",
-          "_anchor": "features7-7n"
         },
         {
           "_params": {
@@ -1740,7 +1604,7 @@
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10803.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10804.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1913,7 +1777,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10803.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x10804.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7376,7 +7240,7 @@
             "paddingTop": 3,
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/28france-economy1-master768-600x400.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9078,28 +8942,39 @@
           "_anchor": "msg-box2-8h"
         },
         {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/irregular-migration-blog-17.11.2017-final-1-1400x1029.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
             }
           },
-          "text": "<p>***NEED Description of data with upodate of current numbers in 2018</p>",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Minium Wage in Bordeaux",
+          "text": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "video1",
-          "_anchor": "video1-86"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-9g"
         },
         {
           "_inherit": "contacts3",
@@ -9357,46 +9232,13 @@
             "overlayOpacity": 0.5
           },
           "title": "Labor in Bordeaux",
-          "text": "How is labor sourced, what is the percentage of fulltime to migrant/ temporary workers? How hard is it to find qualified labor, where are the inefficiencies?",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
           "_anchor": "header4-8a"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Supplying the Labor need with the power of the EU",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-8b"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>\"article quoting labor sourcing and current shortfalls.</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-8c"
         },
         {
           "_params": {
@@ -9441,8 +9283,8 @@
               "size": 0
             }
           },
-          "title": "Vineyard workers",
-          "text": "Many workers are hired as fulltime employees (cite). <b>Why is this the case how do they find sustainability with shorter work weeks? (35hrs vs 40hrs/ week in the US)</b>",
+          "title": "ACCESS TO LABOR",
+          "text": "Unlike the United States, labor is not a problem. Much of the labor force is sourced locally and are long term employees. Much of winemaking is part of the culture and is a valued position. In the case for Cheval Blanc, CFO First, Last Name shared a story of one of their vineyard workers who cam back after being sick to not recognize his vines. He also contiuned to say that when harvesting their fruit they do so with an on call workforce of mostly student or retired local laborers.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Back</a>",
           "_tags": [
             "Theme"
